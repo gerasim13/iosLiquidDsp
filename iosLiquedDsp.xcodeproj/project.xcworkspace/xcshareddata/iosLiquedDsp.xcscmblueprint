@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3085CD840D40012B4D6E3CB8EFE6ED53E4DF798D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3085CD840D40012B4D6E3CB8EFE6ED53E4DF798D" : 0,
+    "A594308EFEE9F4932860FBB2F616DD190E0C52F3" : 0,
+    "B29AE4E008113EEF1233EFA004AB60842814E054" : 0,
+    "675B0AEDC7F01A3E88AD1C0FD4DE6EF2F29470D9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "690E882D-A6ED-4000-BD15-0D174432D126",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3085CD840D40012B4D6E3CB8EFE6ED53E4DF798D" : "iosLiquidDsp\/",
+    "A594308EFEE9F4932860FBB2F616DD190E0C52F3" : "..",
+    "B29AE4E008113EEF1233EFA004AB60842814E054" : "..\/..\/..\/..",
+    "675B0AEDC7F01A3E88AD1C0FD4DE6EF2F29470D9" : "iosLiquidDsp\/Libraries\/liquid-dsp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iosLiquedDsp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iosLiquedDsp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gerasim13\/iosLiquidDsp",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3085CD840D40012B4D6E3CB8EFE6ED53E4DF798D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jgaeddert\/liquid-dsp",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "675B0AEDC7F01A3E88AD1C0FD4DE6EF2F29470D9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/casualunderground\/lsqaudiounits.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A594308EFEE9F4932860FBB2F616DD190E0C52F3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/casualunderground\/loopsequedj.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B29AE4E008113EEF1233EFA004AB60842814E054"
+    }
+  ]
+}
